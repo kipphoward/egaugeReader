@@ -9,5 +9,5 @@ Reader of egauge data
 
 ## Reference Docs
 
-* [Egauge XML API][http://www.egauge.net/media/support/docs/egauge-xml-api.pdf]
+* [Egauge XML API](http://www.egauge.net/media/support/docs/egauge-xml-api.pdf)
 
